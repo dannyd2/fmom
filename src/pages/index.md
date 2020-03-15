@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ' '
-image: /img/drawing6.svg
+image: /img/untitled1.png
 heading: The Fire Museum of Memphis relies on donations to fulfill its mission.
 subheading: ' '
 mainpitch:
