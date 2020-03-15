@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'The Fire Museum of Memphis',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'The Fire Museum of Memphis is a non-profit organization that exists to promote education of fire and life safety, to reduce injury, life-loss, and property-loss related to fire and to recognize and preserve the heritage of the fire service and its contribution to the community.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
