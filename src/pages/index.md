@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ' '
-image: /img/jay-heike-iutgn5ywqp4-unsplash.jpg
+image: /img/museum_front-4-.jpg
 heading: The Fire Museum of Memphis relies on donations to fulfill its mission.
 subheading: ' '
 mainpitch:
