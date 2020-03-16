@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ' '
-image: /img/ember-on-water-tower-at-fmom.jpg
+image: /img/jay-heike-iutgn5ywqp4-unsplash.jpg
 heading: The Fire Museum of Memphis relies on donations to fulfill its mission.
 subheading: ' '
 mainpitch:
